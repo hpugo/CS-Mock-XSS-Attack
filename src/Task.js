@@ -9,6 +9,7 @@ const Task = ({ text, image, index }) => {
       <img style={{ maxWidth: 200 }} src={image} alt={text} />
     </div>
   )
-}
+} 
+apple
 
 export default Task
